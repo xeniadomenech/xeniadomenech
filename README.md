@@ -3,7 +3,7 @@
 
 Welcome to my profile of github. Here you're going to find a little compilation of my programs.
 
-- 💃🏼 I'm 21.
+- 💃🏼 I'm 22.
 - 🎓 Finishing my degree in mathematics.
 - 🧠 Currently learning `Python`, `Java`, `C++`, `Shell Script` ...
 - 💼 I’m looking to collaborate on *open source* projects.
