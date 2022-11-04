@@ -4,7 +4,7 @@
 Welcome to my profile of github. Here you're going to find a little compilation of my programs.
 
 - 💃🏼 I'm 22.
-- 🎓 Coursing my master degree in Big Data ad Advanced Analytics.
+- 🎓 Coursing my master degree in Big Data and Advanced Analytics.
 - 🧠 Expert in `SQL` and currently learning `Python` and `R`
 - 💼 I’m looking to collaborate on *open source* projects.
 - 👀 Working as a junior consultant in a Data-sharing business.
