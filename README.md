@@ -4,10 +4,10 @@
 Welcome to my profile of github. Here you're going to find a little compilation of my programs.
 
 - 💃🏼 I'm 22.
-- 🎓 Finishing my degree in mathematics.
-- 🧠 Currently learning `Python`, `Java`, `C++`, `Shell Script` ...
+- 🎓 Coursing my master degree in Big Data ad Advanced Analytics.
+- 🧠 Expert in `SQL` and currently learning `Python` and `R`
 - 💼 I’m looking to collaborate on *open source* projects.
-- 👀 I’m looking for business to do my final degree project.
+- 👀 Working as a junior consultant in a Data-sharing business.
 - 💬 Interested in expanding my big data and data science knownledge
 - ⚡ Facts: Passionate about traveling, watch series and decipher math challenge.
 
